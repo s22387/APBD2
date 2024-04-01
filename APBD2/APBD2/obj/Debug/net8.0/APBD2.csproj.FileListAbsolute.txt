@@ -1,0 +1,14 @@
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/bin/Debug/net8.0/APBD2
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/bin/Debug/net8.0/APBD2.deps.json
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/bin/Debug/net8.0/APBD2.runtimeconfig.json
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/bin/Debug/net8.0/APBD2.dll
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/bin/Debug/net8.0/APBD2.pdb
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/obj/Debug/net8.0/APBD2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/obj/Debug/net8.0/APBD2.AssemblyInfoInputs.cache
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/obj/Debug/net8.0/APBD2.AssemblyInfo.cs
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/obj/Debug/net8.0/APBD2.csproj.CoreCompileInputs.cache
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/obj/Debug/net8.0/APBD2.dll
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/obj/Debug/net8.0/refint/APBD2.dll
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/obj/Debug/net8.0/APBD2.pdb
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/obj/Debug/net8.0/APBD2.genruntimeconfig.cache
+/Users/anreginevic/Desktop/APBD2/APBD2/APBD2/obj/Debug/net8.0/ref/APBD2.dll
